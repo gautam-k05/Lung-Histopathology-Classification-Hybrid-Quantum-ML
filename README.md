@@ -2,7 +2,7 @@
 
 Comparative study of **classical CNNs, a Hybrid CNN–VQC model, and a Pure VQC model** for three-class lung histopathology classification using the **LC25000** dataset.
 
-![Methodology](architecture/methodology_overview_corrected.png)
+![Methodology](architecture/methodology_overview.png)
 
 ## Highlights
 
